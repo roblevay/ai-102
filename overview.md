@@ -6,6 +6,8 @@
 
 [Demo – Monitor Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/03-monitor-ai-services.html)
 
+[Use an Azure AI Services container](https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/04-use-a-container.html)
+
 ## AI Vision
 
 https://github.com/MicrosoftLearning/mslearn-ai-vision/tree/main/Instructions
