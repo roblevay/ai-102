@@ -47,7 +47,7 @@
 
 [Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/06-use-own-data.html)
 
-[Extended 1:Generate and improve code with Azure OpenAI Service](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/05-generate-images.html)
+[Extended 1: Generate and improve code with Azure OpenAI Service](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/05-generate-images.html)
 
 [Extended 2: Generate images with a DALL-E model](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/03-generate-images.html)
 
