@@ -30,6 +30,8 @@
 
 [Create a conversational language understanding app](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/03-language-understanding.html)
 
+[Extract custom entities](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/05-extract-custom-entities.html)
+
 ## Azure Open AI
 
 [Integrate Azure OpenAI into your app](https://aka.ms/mslearn-azure-openai-api)
