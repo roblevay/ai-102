@@ -17,3 +17,6 @@ https://github.com/MicrosoftLearning/mslearn-ai-language/tree/main/Instructions/
 [Utilize prompt engineering in your app](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/03-prompt-engineering.html)
 
 [Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/06-use-own-data.html)
+
+##Knowledge Mining
+
