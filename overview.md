@@ -49,7 +49,7 @@
 
 [Extended 1:Generate and improve code with Azure OpenAI Service](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/05-generate-images.html)
 
-Extended 2: Generate images with a DALL-E model](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/03-generate-images.html)
+[Extended 2: Generate images with a DALL-E model](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/03-generate-images.html)
 
 
 
