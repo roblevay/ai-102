@@ -2,6 +2,9 @@
 
 [Get Started with Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/01-use-azure-ai-services.html)
 
+[Demo – Manage Azure AI Services security](https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/02-ai-services-security.html)
+
+[Demo – Monitor Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/03-monitor-ai-services.html)
 
 ## AI Vision
 
