@@ -14,3 +14,5 @@ https://github.com/MicrosoftLearning/mslearn-ai-language/tree/main/Instructions/
 
 [Integrate Azure OpenAI into your app](https://aka.ms/mslearn-azure-openai-api)
 
+[Utilize prompt engineering in your app]([https://aka.ms/mslearn-azure-openai-api](https://aka.ms/openai-prompt-engineering-lab)
+
