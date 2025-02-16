@@ -22,7 +22,7 @@
 
 ## AI Language
 
-https://github.com/MicrosoftLearning/mslearn-ai-language/tree/main/Instructions/Exercises
+[Analyze Text](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/01-analyze-text.html)
 
 ## Azure Open AI
 
