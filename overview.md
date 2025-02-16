@@ -10,7 +10,7 @@
 
 ## AI Vision
 
-https://github.com/MicrosoftLearning/mslearn-ai-vision/tree/main/Instructions
+[Analyze Images with Azure AI Vision](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/01-analyze-images.html)
 
 ## AI Language
 
