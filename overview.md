@@ -21,3 +21,5 @@ https://github.com/MicrosoftLearning/mslearn-ai-language/tree/main/Instructions/
 ## Knowledge Mining
 
 [Demo – Create an Azure Cognitive Search Solution](https://microsoftlearning.github.io/mslearn-knowledge-mining/Instructions/Exercises/01-azure-search.html)
+
+[Create a Custom Skill for Azure AI Search](https://microsoftlearning.github.io/mslearn-knowledge-mining/Instructions/Exercises/02-search-skills.html)
