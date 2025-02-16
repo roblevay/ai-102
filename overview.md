@@ -29,3 +29,5 @@ https://github.com/MicrosoftLearning/mslearn-ai-language/tree/main/Instructions/
 ## Develop a Document Intelligence Solution
 
 [Demo – Use prebuilt Document Intelligence models](https://microsoftlearning.github.io/mslearn-ai-document-intelligence/Instructions/Exercises/01-use-prebuilt-models.html)
+
+[Extract Data from Forms](https://microsoftlearning.github.io/mslearn-ai-document-intelligence/Instructions/Exercises/02-custom-document-intelligence.html)
