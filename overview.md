@@ -18,6 +18,8 @@
 
 [Classify Images with Azure AI Vision custom model](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/02-image-classification.html)
 
+[Demo – Analyze Video](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/06-video-indexer.html)
+
 ## AI Language
 
 https://github.com/MicrosoftLearning/mslearn-ai-language/tree/main/Instructions/Exercises
