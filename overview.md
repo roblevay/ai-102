@@ -16,6 +16,8 @@
 
 [Demo – Detect and Analyze Faces](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/04-face-service.html)
 
+[Classify Images with Azure AI Vision custom model](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/02-image-classification.html)
+
 ## AI Language
 
 https://github.com/MicrosoftLearning/mslearn-ai-language/tree/main/Instructions/Exercises
