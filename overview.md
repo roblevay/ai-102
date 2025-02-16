@@ -25,3 +25,7 @@ https://github.com/MicrosoftLearning/mslearn-ai-language/tree/main/Instructions/
 [Create a Custom Skill for Azure AI Search](https://microsoftlearning.github.io/mslearn-knowledge-mining/Instructions/Exercises/02-search-skills.html)
 
 [Extended interactive exercises – Create a Knowledge Store with Azure AI Search](https://microsoftlearning.github.io/mslearn-knowledge-mining/Instructions/Exercises/03-knowledge-store.html)
+
+## Develop a Document Intelligence Solution
+
+[Demo – Use prebuilt Document Intelligence models](https://microsoftlearning.github.io/mslearn-ai-document-intelligence/Instructions/Exercises/01-use-prebuilt-models.html)
