@@ -24,6 +24,8 @@
 
 [Analyze Text](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/01-analyze-text.html)
 
+[Translate Text](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/06-translate-text.html)
+
 ## Azure Open AI
 
 [Integrate Azure OpenAI into your app](https://aka.ms/mslearn-azure-openai-api)
