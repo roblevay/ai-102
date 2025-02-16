@@ -26,6 +26,8 @@
 
 [Translate Text](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/06-translate-text.html)
 
+[Create a Question Answering solution](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/02-qna.html)
+
 ## Azure Open AI
 
 [Integrate Azure OpenAI into your app](https://aka.ms/mslearn-azure-openai-api)
