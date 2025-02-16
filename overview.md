@@ -18,5 +18,6 @@ https://github.com/MicrosoftLearning/mslearn-ai-language/tree/main/Instructions/
 
 [Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/06-use-own-data.html)
 
-##Knowledge Mining
+## Knowledge Mining
 
+[Demo – Create an Azure Cognitive Search Solution](https://microsoftlearning.github.io/mslearn-knowledge-mining/Instructions/Exercises/01-azure-search.html)
