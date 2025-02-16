@@ -15,3 +15,5 @@ https://github.com/MicrosoftLearning/mslearn-ai-language/tree/main/Instructions/
 [Integrate Azure OpenAI into your app](https://aka.ms/mslearn-azure-openai-api)
 
 [Utilize prompt engineering in your app](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/03-prompt-engineering.html)
+
+[Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/06-use-own-data.html)
