@@ -12,6 +12,8 @@
 
 [Analyze Images with Azure AI Vision](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/01-analyze-images.html)
 
+[Read Text in Images](https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/05-ocr.html)
+
 ## AI Language
 
 https://github.com/MicrosoftLearning/mslearn-ai-language/tree/main/Instructions/Exercises
