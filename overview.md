@@ -36,6 +36,8 @@
 
 [Extended 1: Custom text classification](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/04-text-classification.html)
 
+[Extended 2: Translate speech](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/08-translate-speech.html)
+
 
 ## Azure Open AI
 
