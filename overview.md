@@ -1,6 +1,7 @@
 ## Introduction Exercises
 
-https://github.com/MicrosoftLearning/mslearn-ai-services/tree/main/Instructions
+[Get Started with Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/01-use-azure-ai-services.html)
+
 
 ## AI Vision
 
