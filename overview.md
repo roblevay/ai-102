@@ -26,7 +26,7 @@
 
 [Translate Text](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/06-translate-text.html)
 
-[Create a Question Answering solution](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/02-qna.html)
+[Create a Question Answering solution](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/02-qna.html) search resource required
 
 [Create a conversational language understanding app](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/03-language-understanding.html)
 
