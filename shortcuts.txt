@@ -14,7 +14,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/p
 2. **Microsoft Docs – AI-tjänster i Azure**  
    [https://learn.microsoft.com/en-us/azure/cognitive-services/](https://learn.microsoft.com/en-us/azure/cognitive-services/)  
 
-3. **GitHub med övningar**  
+3. **GitHub med övningar (alla övningsmoduler samlade men inte exakt de vi använder i kursen)**  
    [https://github.com/MicrosoftLearning/AI-102-AIEngineer](https://github.com/MicrosoftLearning/AI-102-AIEngineer)  
 
 4. **Microsoft Learn Sandbox (för gratis testning i Azure)**  
