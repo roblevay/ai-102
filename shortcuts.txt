@@ -5,3 +5,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?
 Länk till alla övningar
 
 https://github.com/roblevay/ai-102/blob/main/overview.md
+
+Övningsprov Microsoft
+
+https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/practice/assessment?assessment-type=practice&assessmentId=61&practice-assessment-type=certification
