@@ -2,4 +2,6 @@ Kursmaterial till AI-102
 
 https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification
 
+Länk till alla övningar
 
+https://github.com/roblevay/ai-102/blob/main/overview.md
