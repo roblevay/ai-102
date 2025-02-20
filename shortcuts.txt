@@ -9,7 +9,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/p
 **Länkar till kursmaterial och övningar för AI-102 (Microsoft)**  
 
 1. **Microsoft Learn för AI-102** (gratis interaktivt kursmaterial)  
-   [https://learn.microsoft.com/en-us/certifications/exams/ai-102/](https://learn.microsoft.com/en-us/certifications/exams/ai-102/)  
+  https://learn.microsoft.com/sv-se/training/paths/get-started-azure-ai/
 
 2. **Microsoft Docs – AI-tjänster i Azure**  
    [https://learn.microsoft.com/en-us/azure/cognitive-services/](https://learn.microsoft.com/en-us/azure/cognitive-services/)  
