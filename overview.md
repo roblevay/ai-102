@@ -37,7 +37,7 @@ Obs: Du behöver inte vlja Select the Customize models with images! Välj bara A
 
 [Extended 1: Custom text classification](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/04-text-classification.html)
 
-[Extended 2: Translate speech](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/08-translate-speech.html)
+[Extended 2: Translate speech](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/08-translate-speech.html) En svensk röst är "sv": "sv-SE-MattiasNeural"
 
 
 ## Azure Open AI
