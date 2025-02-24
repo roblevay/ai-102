@@ -50,7 +50,7 @@ Obs: Du behöver inte vlja Select the Customize models with images! Välj bara A
 
 [Extended 1: Generate and improve code with Azure OpenAI Service](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/04-code-generation.html)
 
-[Extended 2: Generate images with a DALL-E model](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/03-generate-images.html)
+[Extended 2: Generate images with a DALL-E model](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/05-generate-images.html)
 
 
 
