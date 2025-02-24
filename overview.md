@@ -33,7 +33,7 @@ Obs: Du behöver inte vlja Select the Customize models with images! Välj bara A
 
 [Extract custom entities](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/05-extract-custom-entities.html)
 
-[Recognize and Synthesize Speech](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/07-speech.html) Azure AI services multi-service account, inte speech service
+[Recognize and Synthesize Speech](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/07-speech.html) 
 
 [Extended 1: Custom text classification](https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/04-text-classification.html)
 
