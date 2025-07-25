@@ -20,3 +20,6 @@ https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/p
 4. **Microsoft Learn Sandbox (för gratis testning i Azure)**  
    [https://learn.microsoft.com/en-us/learn/modules/](https://learn.microsoft.com/en-us/learn/modules/)  
 
+5. Dave Rendons sida
+[https://daverendon.github.io/AI-102-AIEngineer/](https://daverendon.github.io/AI-102-AIEngineer/)
+
