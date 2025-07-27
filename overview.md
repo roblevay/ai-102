@@ -1,21 +1,21 @@
-# Övningar för AI-102
+# Exercises for AI-102
 
-En samling praktiska övningar och labbar relaterade till AI-102-certifieringen och Azure AI-tjänster:
+A curated list of practical labs and exercises related to the AI-102 certification and Azure AI services:
 
 ---
 
 - [**mslearn-ai-studio**](https://github.com/MicrosoftLearning/mslearn-ai-studio)  
-  *Praktiska övningar för Azure AI Foundry-träning.*
+  *Practical exercises for Azure AI Foundry training.*
 
 - [**mslearn-ai-agents**](https://github.com/MicrosoftLearning/mslearn-ai-agents)  
-  *Instruktioner och resurser för att bygga AI-agenter på Azure.*
+  *Instructions and assets for building AI agents on Azure.*
 
 - [**mslearn-ai-language**](https://github.com/MicrosoftLearning/mslearn-ai-language)  
-  *Labfiler för moduler inom Azure AI Language.*
+  *Lab files for Azure AI Language modules.*
 
 - [**mslearn-ai-vision**](https://github.com/MicrosoftLearning/mslearn-ai-vision)  
-  *Labfiler för moduler inom Azure AI Vision.*
+  *Lab files for Azure AI Vision modules.*
 
 - [**mslearn-ai-information-extraction**](https://github.com/MicrosoftLearning/mslearn-ai-information-extraction)  
-  *Labövningar kring AI-driven informationsutvinning.*
+  *Lab exercises focused on AI-powered information extraction.*
 
