@@ -1,6 +1,6 @@
 ## Introduction Exercises
 
-[Get Started with Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/01-use-azure-ai-services.html)
+[Get Started with Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html)
 
 [Demo – Manage Azure AI Services security](https://microsoftlearning.github.io/mslearn-ai-services/Instructions/Exercises/02-ai-services-security.html)
 
