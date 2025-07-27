@@ -1,4 +1,4 @@
-** AI Overview
+## AI Overview
 
 [Develop Generative AI Apps in Azure-kursmaterial](https://aka.ms/mslearn-generative-ai)
 
