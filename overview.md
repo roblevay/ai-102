@@ -1,4 +1,3 @@
-```md
 # Övningar för AI-102
 
 En samling praktiska övningar och labbar relaterade till AI-102-certifieringen och Azure AI-tjänster:
@@ -19,7 +18,4 @@ En samling praktiska övningar och labbar relaterade till AI-102-certifieringen 
 
 - [**mslearn-ai-information-extraction**](https://github.com/MicrosoftLearning/mslearn-ai-information-extraction)  
   *Labövningar kring AI-driven informationsutvinning.*
-```
-
-
 
