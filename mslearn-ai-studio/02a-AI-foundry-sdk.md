@@ -39,11 +39,10 @@ Start VSCode and open the folder where your ai-exercises reside, for example c:\
     (Answer yes if prompted)
     
     ```
-   ./labenv/bin/Activate.ps1
+   ./labenv/scripts/Activate.ps1
     ```
 
-    (Om det inte funkar, prova med ./labenv/scripts/Activate.ps1)
-
+ 
    ```
    pip install -r requirements.txt azure-identity azure-ai-projects openai
    ```
