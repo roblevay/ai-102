@@ -2,8 +2,7 @@
 
 Start VSCode and open the folder where your ai-exercises reside, for example c:\ai
 
-1. Open a terminal and run the command
-2. Run
+1. Open a terminal and run the command (replace c:\ai with the name of your folder)
 
     ```
    cd c:\ai
