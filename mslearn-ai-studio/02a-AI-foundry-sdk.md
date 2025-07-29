@@ -29,7 +29,7 @@ Start VSCode and open the folder where your ai-exercises reside, for example c:\
 
     The folder contains a code file as well as a configuration file for application settings and a file defining the project runtime and package requrirements.
 
-1. In the cloud shell command-line pane, enter the following command to install the libraries you'll use:
+1. In the cloud shell command-line pane, enter the following commands one after the other to install the libraries you'll use:
 
     ```
    python -m venv labenv
