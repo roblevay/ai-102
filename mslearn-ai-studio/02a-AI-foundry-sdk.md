@@ -2,14 +2,15 @@
 
 Start VSCode and open the folder where your ai-exercises reside, for example c:\ai
 
-1. Open a terminal and run the following commandos
+1. Open a terminal and run the command
 
     ```
    rm -r mslearn-ai-foundry -f
-      ```
+    ```
+    and
 
-        ```
- git clone https://github.com/microsoftlearning/mslearn-ai-studio mslearn-ai-foundry
+   ```
+     git clone https://github.com/microsoftlearning/mslearn-ai-studio mslearn-ai-foundry
 
      ```
 
