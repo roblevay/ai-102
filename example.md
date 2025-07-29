@@ -83,6 +83,8 @@ Before starting, ensure you have the following installed on your local machine:
      ```
      python -m venv labenv
      ```
+   Answer Yes if prompted
+     
    - Activate the virtual environment:
      - On Windows:
        ```
