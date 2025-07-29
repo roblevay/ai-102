@@ -3,8 +3,14 @@
 Start VSCode and open the folder where your ai-exercises reside, for example c:\ai
 
 1. Open a terminal and run the command
+2. Run
 
     ```
+   cd c:\ai
+     ```
+
+    and then
+   ```
    rm -r mslearn-ai-foundry -force
     ```
     and
@@ -16,7 +22,7 @@ Start VSCode and open the folder where your ai-exercises reside, for example c:\
 
     
 
-2. After the repo has been cloned, navigate to the folder containing the chat application code files :
+4. After the repo has been cloned, navigate to the folder containing the chat application code files :
 
     ```
    cd mslearn-ai-foundry/labfiles/chat-app/python
