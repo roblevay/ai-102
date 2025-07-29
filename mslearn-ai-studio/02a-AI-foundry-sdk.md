@@ -10,7 +10,7 @@ Start VSCode and open the folder where your ai-exercises reside, for example c:\
 
     and then
    ```
-   rm -r mslearn-ai-foundry -force
+   rm -r mslearn-ai-foundry -Force -ErrorAction SilentlyContinue
     ```
     and
 
