@@ -35,6 +35,8 @@ Start VSCode and open the folder where your ai-exercises reside, for example c:\
    python -m venv labenv
 
     ```
+
+    (Answer yes if prompted)
     
     ```
    ./labenv/bin/Activate.ps1
