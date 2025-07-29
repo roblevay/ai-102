@@ -5,7 +5,7 @@ Start VSCode and open the folder where your ai-exercises reside, for example c:\
 1. Open a terminal and run the command
 
     ```
-   rm -r mslearn-ai-foundry -f
+   rm -r mslearn-ai-foundry -force
     ```
     and
 
