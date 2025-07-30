@@ -2,7 +2,7 @@
 
 A curated list of practical labs and exercises related to the AI-102 certification and Azure AI services:
 
----
+
 
     ```
    cd c:\ai
