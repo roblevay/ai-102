@@ -30,7 +30,7 @@ git clone https://github.com/microsoftlearning/mslearn-ai-language
   *Lab files for Azure AI Vision modules.*
 
 ```
-git clone https://github.com/microsoftlearning/mslearn-ai-studio mslearn-ai-foundry
+git clone https://github.com/MicrosoftLearning/mslearn-ai-vision
 ```
 
 - [**mslearn-ai-information-extraction**](https://github.com/MicrosoftLearning/mslearn-ai-information-extraction)  
