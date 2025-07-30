@@ -3,10 +3,9 @@
 A curated list of practical labs and exercises related to the AI-102 certification and Azure AI services:
 
 
-
-    ```
-   cd c:\ai
-     ```
+```
+cd c:\ai
+```
 
 - [**mslearn-ai-studio**](https://github.com/MicrosoftLearning/mslearn-ai-studio)  
   *Practical exercises for Azure AI Foundry training.*
