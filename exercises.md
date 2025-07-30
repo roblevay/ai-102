@@ -4,9 +4,9 @@ A curated list of practical labs and exercises related to the AI-102 certificati
 
 ---
 
-´´´´
-git clone https://github.com/microsoftlearning/mslearn-ai-studio mslearn-ai-foundry
-´´´
+    ```
+   cd c:\ai
+     ```
 
 - [**mslearn-ai-studio**](https://github.com/MicrosoftLearning/mslearn-ai-studio)  
   *Practical exercises for Azure AI Foundry training.*
