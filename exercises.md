@@ -23,7 +23,7 @@ git clone https://github.com/MicrosoftLearning/mslearn-ai-agents ai-agents
   *Lab files for Azure AI Language modules.*
 
 ```
-git clone https://github.com/microsoftlearning/mslearn-ai-studio mslearn-ai-foundry
+git clone https://github.com/microsoftlearning/mslearn-ai-language
 ```
 
 - [**mslearn-ai-vision**](https://github.com/MicrosoftLearning/mslearn-ai-vision)  
