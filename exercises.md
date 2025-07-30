@@ -16,7 +16,7 @@ git clone https://github.com/microsoftlearning/mslearn-ai-studio mslearn-ai-foun
   *Instructions and assets for building AI agents on Azure.*
 
 ```
-git clone https://github.com/microsoftlearning/mslearn-ai-studio mslearn-ai-foundry
+git clone https://github.com/MicrosoftLearning/mslearn-ai-agents ai-agents
 ```
 
 - [**mslearn-ai-language**](https://github.com/MicrosoftLearning/mslearn-ai-language)  
