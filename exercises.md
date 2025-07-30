@@ -37,5 +37,5 @@ git clone https://github.com/MicrosoftLearning/mslearn-ai-vision
   *Lab exercises focused on AI-powered information extraction.*
 
 ```
-git clone https://github.com/microsoftlearning/mslearn-ai-studio mslearn-ai-foundry
+git clone https://github.com/microsoftlearning/mslearn-ai-information-extraction mslearn-ai-info
 ```
